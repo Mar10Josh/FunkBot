@@ -1,0 +1,15 @@
+{
+  "name": "funkbot",
+  "version": "1.0.0",
+  "description": "FunkBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run startbot",
+    "startbot": "node index.js"
+  },
+  "author": "Josiah",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "trollbox-bot": "^1.0.6"
+  }
+}
